@@ -10,10 +10,10 @@ My tech stack includes work with frontend frameworks such as React and Vue. I kn
 📫 How to reach me: kurnosofff@gmail.com
 
 Check out some of my projects - 
-[Web player on react](https://github.com/andreikurnosov/react-music-player).
-[Game searcher](https://github.com/andreikurnosov/game-website).
-[Studio site](https://github.com/andreikurnosov/studio-site).
-[Vue, typescript - blog app](https://github.com/andreikurnosov/vue-blog).
+...[Web player on react](https://github.com/andreikurnosov/react-music-player)..
+...[Game searcher](https://github.com/andreikurnosov/game-website)..
+...[Studio site](https://github.com/andreikurnosov/studio-site)..
+...[Vue, typescript - blog app](https://github.com/andreikurnosov/vue-blog)..
 
 Also I have Figma account where you can find some of my designs ideas - 
 [Mosquito nets landing page](https://www.figma.com/file/jeBAjCclrVDYgQlFjzTaUt/Setki-Novosib).

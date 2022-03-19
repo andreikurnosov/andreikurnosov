@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Andrei and I am a frontend developer from Russia. Everything I know of and on the Web today is self-taught. My favorite courses from WesBos and Kent C.Dodds.
+My name is Andrei and I am a frontend developer from Russia. Everything I know of and on the Web today is self-taught. My favorite courses from Lachlan Miller.
+
 I looking for work with companies, to build Web sites and application UIs with strong focus on responsive design, accessibility, performance, and the latest in the area of front-end (CSS, SVG, JavaScript).
 
 My tech stack includes work with frontend frameworks such as React and Vue. I know some patterns from both ecosystems.
 
-🌱 I’m currently learning - Next.JS, GraphQl, Typescript.
+🌱 I’m currently learning - Vue 3, Testing Javascript, Typescript.
 
 🔭 I’m currently working on [Sick Fits](https://github.com/andreikurnosov/sick-fits).
 
